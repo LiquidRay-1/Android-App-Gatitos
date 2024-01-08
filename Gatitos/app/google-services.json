@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "901543472115",
+    "project_id": "prueba-ffbba",
+    "storage_bucket": "prueba-ffbba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901543472115:android:b34605102707e316f40086",
+        "android_client_info": {
+          "package_name": "com.example.gatitos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901543472115-84am5tmogvurnq6a7e8ae4732c0pf6bo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gatitos",
+            "certificate_hash": "e8e7ab1119306a511a938a496198d7030ce540b9"
+          }
+        },
+        {
+          "client_id": "901543472115-qio4p27b6nbt4q950u40ql0ig3tj3mnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7cEwW_7nDlm9YQVF2bdZo38y563NykNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901543472115-qio4p27b6nbt4q950u40ql0ig3tj3mnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
